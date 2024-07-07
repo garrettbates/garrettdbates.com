@@ -7,7 +7,7 @@ categories: jekyll update
 # Why use onion layering?
 
 ## Motivation 
-There is a constant assault on our code base in the form of feature enhancements, bug fixes, and hygiene. Envision each incoming change as a bomb :bomb:, and the damage it does is based on the number of files impacted. Onion layering promises to reduce this blast radius.
+There is a constant assault on our code base in the form of feature enhancements, bug fixes, and hygiene. Envision each incoming change as a bomb 💣, and the damage it does is based on the number of files impacted. Onion layering promises to reduce this blast radius.
 
 ### Reduces blast radius of change
 ![Code Base Damage](/assets/why-use-onion-layering/change-damage.png)
