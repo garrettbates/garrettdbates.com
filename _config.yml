@@ -21,7 +21,7 @@
 title: Garrett D Bates
 email: garrettdbts@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Garrett is a software engineer. Garrett want share knowledge. Please enjoy.
+  Garrett is software engineer. Garrett want share knowledge. Please enjoy.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
