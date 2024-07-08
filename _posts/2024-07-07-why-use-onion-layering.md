@@ -4,7 +4,6 @@ title:  "Why use onion layering?"
 date:   2024-07-07 03:51:45 -0700
 categories: jekyll update
 ---
-# Why use onion layering?
 
 ## Motivation 
 There is a constant assault on our code base in the form of feature enhancements, bug fixes, and hygiene. Envision each incoming change as a bomb 💣, and the damage it does is based on the number of files impacted. Onion layering promises to reduce this blast radius.
