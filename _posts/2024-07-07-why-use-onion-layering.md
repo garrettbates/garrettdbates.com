@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 ## Context
-If you first need an overview on *what* onion layering is and its relationship to other architectures check out some of my favorite resources on the topic here 👉 [what is onion layering?](#related-resources)
+If you first need an overview on *what* onion layering is and its relationship to other architectures check out some of my favorite resources on the topic here 👉 [what is onion layering?](#what-is-onion-layering)
 
 The rest of the post provides a terse overview of *why* someone might pursue onion layering with a few examples.
 
