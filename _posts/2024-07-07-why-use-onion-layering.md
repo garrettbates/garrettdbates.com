@@ -36,9 +36,9 @@ Onion layering reduced how much pain our clients inflicted on our code base to t
 
 ### Introducing a new downstream dependency
 
-Imagine the most annoying possible microservice dependency. Suppose every input field is an acronym, they are using SOAP, and output is spread across response headers, body, and cookies.
+Imagine the most annoying possible microservice dependency. Suppose every input field is an acronym, they are using SOAP, and they are in the middle of revamping their whole API design.
 
-The raw code to interact with this dependency is horrifyingly ugly. It will sit in the .infra.\* layer of our onion architecture, and **it will go no further**. Our .core.\* classes will not be beholden to speak the insane language of our downstream dependency. Instead we will reflect exactly what we need via an interface in .core.\*.
+The raw code to interact with this dependency is horrifyingly ugly and has inevitable upcoming changes. It will sit in the .infra.\* layer of our onion architecture, and **it will go no further**. Our .core.\* classes will not be beholden to speak the insane language of our downstream dependency. Instead we will reflect exactly what we need via an interface in .core.\*.
 
 Onion layering reduced how much pain our dependency inflicted on our code base to the .infra.\* package and in doing so also increased the readability of our .core.\* package.
 
