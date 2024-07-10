@@ -6,14 +6,13 @@ categories: jekyll update
 ---
 
 ## Context
-If you first need an overview on *what* onion layering and its relationship to other architectures I've found these resources to be the best:
+If you first need an overview on *what* onion layering is and its relationship to other architectures I've found these resources to be the best:
 
 * [https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 * [https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 * [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [https://www.youtube.com/watch?v=_Js-GEqB-8I](https://www.youtube.com/watch?v=_Js-GEqB-8I)
 * [https://alistair.cockburn.us/hexagonal-architecture/](https://alistair.cockburn.us/hexagonal-architecture/)
-* [http://ddd.fed.wiki.org/view/shared-kernel](http://ddd.fed.wiki.org/view/shared-kernel)
 * [https://stackoverflow.com/questions/21554977/
 should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-21569720](https://stackoverflow.com/questions/21554977/
 should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-21569720)
