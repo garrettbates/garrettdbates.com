@@ -6,17 +6,7 @@ categories: jekyll update
 ---
 
 ## Context
-If you first need an overview on *what* onion layering is and its relationship to other architectures I've found these resources to be the best:
-
-* [https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
-* [https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
-* [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-* [https://www.youtube.com/watch?v=_Js-GEqB-8I](https://www.youtube.com/watch?v=_Js-GEqB-8I)
-* [https://alistair.cockburn.us/hexagonal-architecture/](https://alistair.cockburn.us/hexagonal-architecture/)
-* [https://stackoverflow.com/questions/21554977/
-should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-21569720](https://stackoverflow.com/questions/21554977/
-should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-21569720)
-* [https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
+If you first need an overview on *what* onion layering is and its relationship to other architectures check out some of my favorite resources on the topic here 👉 [what is onion layering?](#related-resources)
 
 The rest of the post provides a terse overview of *why* someone might pursue onion layering with a few examples.
 
@@ -64,3 +54,16 @@ The raw code to wire up this dependency is completely irrelevant to our existing
 Onion layering isolates the distracting details of our new library into the .config.\* package and in doing so also increases the readability of the rest of our code base.
 
 ![Example clarity - configuration isolation](/assets/why-use-onion-layering/configuration-example.png)
+
+## Appendix
+
+### What is onion layering?
+* [https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+* [https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
+* [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [https://www.youtube.com/watch?v=_Js-GEqB-8I](https://www.youtube.com/watch?v=_Js-GEqB-8I)
+* [https://alistair.cockburn.us/hexagonal-architecture/](https://alistair.cockburn.us/hexagonal-architecture/)
+* [https://stackoverflow.com/questions/21554977/
+should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-21569720](https://stackoverflow.com/questions/21554977/
+should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-21569720)
+* [https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
