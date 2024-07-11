@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Why use onion layering?"
-last_modified_at: 2024-07-11 14:39:00 -0000
+last_modified_at: 2024-07-11 17:54:00 -0000
+view_count: 19k
 categories: blog software-architecture
 ---
 
 ## Context
-For those seeking to understand *what* onion layering is and its relationship to other architectures I recommend checking out some of my favorite articles on the topic here 👉 [what is onion layering?](#related-articles)
+For those seeking to understand *what* onion layering is and its relationship to other architectures I recommend checking out some of my favorite articles on the topic here 👉 [what is onion layering?](#related-background-articles)
 
 This post provides a terse overview of *why* you might pursue onion layering with a few examples.
 
@@ -57,7 +58,7 @@ Onion layering isolates the distracting details of our new library into the .con
 
 ### Appendix
 
-#### Related Articles
+#### Related Background Articles
 * [https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 * [https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 * [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)

@@ -8,10 +8,14 @@ layout: base
       .published-on:before {
           content: "🕙";
       }
+
+      .view-count:before {
+        content: url("/assets/claps.svg");
+      }
     </style>
     <p class="post-meta">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="published-on">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <span class="published-on" title="Last updated">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- if page.last_modified_at -%}
         {{ page.last_modified_at | date: date_format }}
@@ -20,6 +24,14 @@ layout: base
         {%- endif -%}
       </time>
     </span>
+    <p class="post-meta">
+      <span class="view-count" title="View count">
+        <span>
+          {%- if page.view_count -%}
+          {{ page.view_count }}
+          {%- endif -%}
+        </span>
+      </span>
       {%- if page.modified_date -%}
         ~ 
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
