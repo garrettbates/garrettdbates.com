@@ -68,5 +68,11 @@ should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-
 should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-21569720)
 * [https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 
-#### Lucidchart Assets
-* [https://lucid.app/folder/invitations/accept/inv_62b31f1e-a79e-491c-a203-0727d4034c27](https://lucid.app/folder/invitations/accept/inv_62b31f1e-a79e-491c-a203-0727d4034c27)
+#### Lucidchart Folder
+* [https://lucid.app/documents#/documents?folder_id=375593430](https://lucid.app/documents#/documents?folder_id=375593430)
+
+#### Noun Project Icons
+* [Arrow](https://thenounproject.com/icon/arrow-2146615/)
+* [Explosion](https://thenounproject.com/icon/explosion-563988/)
+* [Halo](https://thenounproject.com/icon/halo-4031793/)
+* [File](https://thenounproject.com/icon/file-354396/)
