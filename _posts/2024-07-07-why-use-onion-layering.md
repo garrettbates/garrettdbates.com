@@ -55,9 +55,9 @@ Onion layering isolates the distracting details of our new library into the .con
 
 ![Example clarity - configuration isolation](/assets/why-use-onion-layering/configuration-example.png)
 
-## Appendix
+### Appendix
 
-### Related Articles
+#### Related Articles
 * [https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 * [https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 * [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
@@ -68,5 +68,5 @@ should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-
 should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-21569720)
 * [https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 
-### Lucidchart Assets
+#### Lucidchart Assets
 * [https://lucid.app/folder/invitations/accept/inv_62b31f1e-a79e-491c-a203-0727d4034c27](https://lucid.app/folder/invitations/accept/inv_62b31f1e-a79e-491c-a203-0727d4034c27)
