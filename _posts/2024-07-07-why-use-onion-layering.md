@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why use onion layering?"
-last_modified_at: 2024-07-10 11:48:00 -0000
+last_modified_at: 2024-07-11 14:39:00 -0000
 categories: blog software-architecture
 ---
 
