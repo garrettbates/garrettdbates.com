@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Why use onion layering?"
-last_modified_at: 2024-07-10 10:17:00 -0000
+last_modified_at: 2024-07-10 11:48:00 -0000
 categories: blog software-architecture
 ---
 
 ## Context
-If you first need an overview on *what* onion layering is and its relationship to other architectures check out some of my favorite resources on the topic here 👉 [what is onion layering?](#related-articles)
+For those seeking to understand *what* onion layering is and its relationship to other architectures I recommend checking out some of my favorite articles on the topic here 👉 [what is onion layering?](#related-articles)
 
-The rest of the post provides a terse overview of *why* someone might pursue onion layering with a few examples.
+This post provides a terse overview of *why* you might pursue onion layering with a few examples.
 
 ## Rationale 
 
