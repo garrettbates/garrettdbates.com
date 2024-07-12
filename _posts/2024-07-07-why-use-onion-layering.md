@@ -2,7 +2,7 @@
 layout: post
 title:  "Why use onion layering?"
 last_modified_at: 2024-07-11 17:54:00 -0000
-view_count: 19k
+view_count: 25k
 comment_count: 82
 categories: blog software-architecture
 ---
@@ -62,6 +62,7 @@ Onion layering isolates the distracting details of our new library into the .con
 #### Discussion Threads
 * [Hacker News](https://news.ycombinator.com/item?id=40898715)
 * [Reddit](https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/)
+* [LinkedIn](https://www.linkedin.com/posts/garrettdbates_why-use-onion-layering-activity-7215731052445589504-6hAJ?utm_source=share&utm_medium=member_desktop)
 
 #### Related Background Articles
 * [https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
