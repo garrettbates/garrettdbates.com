@@ -21,7 +21,7 @@ image:
 ## Context
 For those seeking to understand *what* onion layering is and its relationship to other architectures I recommend checking out some of my favorite articles on the topic here 👉 [what is onion layering?](#related-background-articles)
 
-This post provides a terse overview of *why* you might pursue onion layering with a few examples.
+This post provides a terse overview of *why* you might pursue onion layering with a few examples. I created these notes so that I could quickly set the frame for group discussions on whether a given use case warrants an onion approach.
 
 ## Rationale 
 
