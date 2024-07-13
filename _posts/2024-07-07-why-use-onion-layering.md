@@ -8,7 +8,7 @@ comment_count: 82
 categories: blog software-architecture
 ---
 
-> You know you got it right if you cry more each time you look at another layer. Thats why it’s called Onion Architecture. - [dredalious](https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/lc1xvqv/)
+> You know you got it right if you cry more each time you look at another layer. Thats why it’s called Onion Architecture. - [Top Reddit Comment](https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/lc1xvqv/)
 
 ## Context
 For those seeking to understand *what* onion layering is and its relationship to other architectures I recommend checking out some of my favorite articles on the topic here 👉 [what is onion layering?](#related-background-articles)
