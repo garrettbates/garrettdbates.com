@@ -1,14 +1,22 @@
 ---
 layout: post
 title:  "Why use onion layering?"
-last_modified_at: 2024-07-12 01:00:00 -0000
+last_modified_at: 2024-07-13 07:56:00 -0000
 read_time: 4 min read
 view_count: 6.9k
 comment_count: 85
 categories: blog software-architecture
+image:
+  path: /assets/why-use-onion-layering/onion.png
+  height: 100
+  width: 100
 ---
 
 > You know you got it right if you cry more each time you look at another layer. Thats why it’s called Onion Architecture. - [Top Reddit Comment](https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/lc1xvqv/)
+
+<div style="display:flex;justify-content:center">
+    <img src="/assets/why-use-onion-layering/onion.png" alt="Onion" style="max-height:558px">
+</div>
 
 ## Context
 For those seeking to understand *what* onion layering is and its relationship to other architectures I recommend checking out some of my favorite articles on the topic here 👉 [what is onion layering?](#related-background-articles)
