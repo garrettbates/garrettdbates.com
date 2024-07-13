@@ -3,8 +3,8 @@ layout: post
 title:  "Why use onion layering?"
 last_modified_at: 2024-07-12 01:00:00 -0000
 read_time: 4 min read
-view_count: 6.6k
-comment_count: 82
+view_count: 6.9k
+comment_count: 85
 categories: blog software-architecture
 ---
 
