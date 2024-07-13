@@ -94,3 +94,4 @@ should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-
 * [Explosion](https://thenounproject.com/icon/explosion-563988/)
 * [Halo](https://thenounproject.com/icon/halo-4031793/)
 * [File](https://thenounproject.com/icon/file-354396/)
+* [Brain](https://thenounproject.com/icon/brain-475578/)
