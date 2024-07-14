@@ -12,7 +12,7 @@ image:
   width: 100
 ---
 
-> You know you got it right if you cry more each time you look at another layer. Thats why it’s called Onion Architecture. - [Top Reddit Comment](https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/lc1xvqv/)
+> You know you got it right if you cry more each time you look at another layer. Thats why it’s called Onion Architecture. - [Top Comment](https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/lc1xvqv/)
 
 <div style="display:flex;justify-content:center">
     <img src="/assets/why-use-onion-layering/onion.png" alt="Onion" style="max-height:558px">
