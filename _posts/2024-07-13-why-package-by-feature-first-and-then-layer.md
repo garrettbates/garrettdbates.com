@@ -35,9 +35,10 @@ Occasionally we develop code that has incredible utility across multiple microse
 * [Hacker News](https://news.ycombinator.com/item?id=41010866)
 * [Reddit](https://www.reddit.com/r/programming/comments/1e7dqzm/why_package_by_feature_first_and_then_by_layer/)
 
-#### Background Articles
+#### Related Background Articles
 * [https://gregorriegler.com/2020/08/08/levels-of-modularity.html](https://gregorriegler.com/2020/08/08/levels-of-modularity.html)
 * [https://www.jimmybogard.com/vertical-slice-architecture/](https://www.jimmybogard.com/vertical-slice-architecture/)
+* [https://garrettdbates.com/blog/software-architecture/why-use-onion-layering](https://garrettdbates.com/blog/software-architecture/why-use-onion-layering)
   
 #### Lucidchart Folder
 * [https://lucid.app/folder/invitations/accept/inv_a4d9ca23-8ddb-4d76-97da-bc18ba4a7f21](https://lucid.app/folder/invitations/accept/inv_a4d9ca23-8ddb-4d76-97da-bc18ba4a7f21)
