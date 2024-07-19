@@ -7,7 +7,7 @@ categories: blog software-architecture
 ---
 
 ## Context
-For those seeking to understand *what* vertical slice architecture is I recommend checking out some of my favorite articles on the topic here 👉 [what is vertical slicing?](#related-background-articles)
+For those seeking to understand *what* vertical slice architecture is and its relationship to other architectures I recommend checking out some of my favorite articles on the topic here 👉 [what is vertical slicing?](#related-background-articles)
 
 This post provides a terse overview of *why* you might pursue vertical slicing with a few examples.
 
