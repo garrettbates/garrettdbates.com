@@ -6,6 +6,10 @@ read_time: 3 min read
 categories: blog software-architecture
 ---
 
+<div style="display:flex;justify-content:center">
+    <img src="/assets/why-package-by-feature-first/feature-slice.png" alt="Feature Slice" style="max-height:400px">
+</div>
+
 ## Context
 For those seeking to understand *what* vertical slice architecture is and its relationship to other architectures I recommend checking out some of my favorite articles on the topic here 👉 [what is vertical slicing?](#related-background-articles)
 
