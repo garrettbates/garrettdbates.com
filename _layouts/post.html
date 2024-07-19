@@ -43,6 +43,8 @@ layout: base
         {{ page.comment_count }}
       </span>
     </span>
+
+    {%- endif -%}
     <script src="https://unpkg.com/@popperjs/core@2"></script>
     <script src="https://unpkg.com/tippy.js@6"></script>
     <style>
@@ -85,7 +87,6 @@ layout: base
         interactive: true
       });
     </script>
-    {%- endif -%}
       {%- if page.modified_date -%}
         ~ 
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
