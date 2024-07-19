@@ -31,6 +31,10 @@ Occasionally we develop code that has incredible utility across multiple microse
 
 ### Appendix
 
+#### Discussion Threads
+* [Hacker News](https://news.ycombinator.com/item?id=41010866)
+* [Reddit](https://www.reddit.com/r/programming/comments/1e7dqzm/why_package_by_feature_first_and_then_by_layer/)
+
 #### Background Articles
 * [https://gregorriegler.com/2020/08/08/levels-of-modularity.html](https://gregorriegler.com/2020/08/08/levels-of-modularity.html)
 * [https://www.jimmybogard.com/vertical-slice-architecture/](https://www.jimmybogard.com/vertical-slice-architecture/)
