@@ -38,6 +38,8 @@ Occasionally we develop code that has incredible utility across multiple microse
 #### Discussion Threads
 * [Hacker News](https://news.ycombinator.com/item?id=41010866)
 * [Reddit](https://www.reddit.com/r/programming/comments/1e7dqzm/why_package_by_feature_first_and_then_by_layer/)
+* [LinkedIn](https://www.linkedin.com/posts/garrettdbates_why-package-by-feature-first-and-then-by-activity-7220185968144760832-epw6?utm_source=share&utm_medium=member_desktop)
+* [Twitter](https://x.com/garrettdbates/status/1814421999558766963)
 
 #### Related Background Articles
 * [https://gregorriegler.com/2020/08/08/levels-of-modularity.html](https://gregorriegler.com/2020/08/08/levels-of-modularity.html)
