@@ -67,6 +67,12 @@ The proposal to prefer unit testing through a layer entry point does not come wi
 * [https://dev.to/dylanwatsonsoftware/socialise-your-unit-tests-5da0](https://dev.to/dylanwatsonsoftware/socialise-your-unit-tests-5da0)
 * [https://garrettdbates.com/blog/software-architecture/why-use-onion-layering](https://garrettdbates.com/blog/software-architecture/why-use-onion-layering)
 
+#### Discussion Threads
+* [Hacker News](https://news.ycombinator.com/item?id=41018406)
+* [Reddit](https://www.reddit.com/r/programming/comments/1e81vil/why_prefer_unit_testing_through_layer_entrypoints/)
+* [LinkedIn](https://www.linkedin.com/posts/garrettdbates_why-prefer-unit-testing-through-layer-entrypoints-activity-7220486583773224960-9xLl?utm_source=share&utm_medium=member_desktop)
+* [Twitter](https://x.com/garrettdbates/status/1814721450227671427)
+
 #### Lucidchart Folder
 * [https://lucid.app/folder/invitations/accept/inv_bffe0f2e-8ba2-4e55-9f6c-c072e86e836b](https://lucid.app/folder/invitations/accept/inv_bffe0f2e-8ba2-4e55-9f6c-c072e86e836b)
 
