@@ -23,6 +23,10 @@ As developers are choosing names for their classes the overall length plays a hu
 * [https://blog.codinghorror.com/new-programming-jargon/#21](https://blog.codinghorror.com/new-programming-jargon/#21)
 * [https://devcards.io/smurf-naming-convention](https://devcards.io/smurf-naming-convention)
 
+#### Discussion Threads
+* [Reddit](https://www.reddit.com/r/programming/comments/1e7u735/why_disallow_package_within_the_class_name/)
+* [Hacker News](https://news.ycombinator.com/item?id=41015924)
+* [LinkedIn](https://www.linkedin.com/posts/garrettdbates_why-disallow-package-within-the-class-name-activity-7220401579915399168-oSAK?utm_source=share&utm_medium=member_desktop)
 
 #### Lucidchart Folder
 * [https://lucid.app/folder/invitations/accept/inv_534f6a27-5bef-4a30-97e1-c29dd79d1f2c](https://lucid.app/folder/invitations/accept/inv_534f6a27-5bef-4a30-97e1-c29dd79d1f2c)
