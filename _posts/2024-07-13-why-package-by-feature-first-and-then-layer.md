@@ -43,6 +43,7 @@ Occasionally we develop code that has incredible utility across multiple microse
 
 #### Related Background Articles
 * [https://gregorriegler.com/2020/08/08/levels-of-modularity.html](https://gregorriegler.com/2020/08/08/levels-of-modularity.html)
+* [https://www.youtube.com/watch?v=cVVMbuKmNes](https://www.youtube.com/watch?v=cVVMbuKmNes)
 * [https://www.jimmybogard.com/vertical-slice-architecture/](https://www.jimmybogard.com/vertical-slice-architecture/)
 * [https://garrettdbates.com/blog/software-architecture/why-use-onion-layering](https://garrettdbates.com/blog/software-architecture/why-use-onion-layering)
   
