@@ -25,7 +25,7 @@ A second drawback to solitary unit tests is the need to update tests when refact
 This lack of confidence and double-work of refactoring is discouraging to those who seek to improve and refine the structure of the code base.
 
 ## Solution
-Proposed solve to unlock refactoring freedom is to prioritize sociable unit tests which focus on [layer](/blog/why-use-onion-layering) interfaces. In doing so we get higher confidence when refactoring with zero test change overhead.
+Proposed solve to unlock refactoring freedom is to prioritize sociable unit tests which focus on [layer](/blog/software-architecture/why-use-onion-layering) interfaces. In doing so we get higher confidence when refactoring with zero test change overhead.
 
 ![Refactoring freedom](/assets/why-prefer-unit-testing-through-a-layer-entrypoint/refactoring-freedom.png)
 
