@@ -10,11 +10,11 @@ image:
   width: 100
 moreFromAuthor:
   -
-    path: _posts/2024-07-20-why-disallow-package-within-the-class-name.md
+    postSlug: why-use-onion-layering
   - 
-    path: _posts/2024-07-07-why-use-onion-layering.md
+    postSlug: why-disallow-package-within-the-class-name
   -
-    path: _posts/2024-07-13-why-package-by-feature-first-and-then-layer.md
+    postSlug: why-package-by-feature-first-and-then-layer
 discussionPages:
   - https://news.ycombinator.com/item?id=41018406
   - https://www.reddit.com/r/programming/comments/1e81vil/why_prefer_unit_testing_through_layer_entrypoints

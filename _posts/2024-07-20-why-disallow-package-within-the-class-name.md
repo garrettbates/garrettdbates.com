@@ -8,11 +8,11 @@ image:
   path: /assets/why-disallow-package-within-the-class-name/package-information-overload.png
 moreFromAuthor:
   -
-    path: _posts/2024-07-20-why-prefer-unit-testing-through-layer-entrypoints.md
+    postSlug: why-use-onion-layering
   - 
-    path: _posts/2024-07-07-why-use-onion-layering.md
+    postSlug: why-prefer-unit-testing-through-layer-entrypoints
   -
-    path: _posts/2024-07-13-why-package-by-feature-first-and-then-layer.md
+    postSlug: why-package-by-feature-first-and-then-layer
 discussionPages:
   - https://www.reddit.com/r/programming/comments/1e7u735/why_disallow_package_within_the_class_name/
   - https://www.linkedin.com/posts/garrettdbates_why-disallow-package-within-the-class-name-activity-7220401579915399168-oSAK?utm_source=share&utm_medium=member_desktop
