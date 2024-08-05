@@ -5,7 +5,7 @@
         {% assign colNum = forloop.index0 | modulo: 2 | plus: 1 %}
         <!-- {% assign moreItemPost = site.posts | where:"slug", moreItem.postSlug | first %} -->
         <!--  -->
-        {% assign moreItemPost = site.posts | find: "slug", page.moreFromAuthor[forloop.index0].postSlug  %}
+        {% assign moreItemPost = site.posts | find: "path", page.moreFromAuthor[forloop.index0].path %}
         <a href="{{moreItemPost.url}}">
             <div class="appendix-wrapper-col appendix-wrapper-col-{{colNum}}" role="link">
                 <div class="appendix-wrapper-img-container">
