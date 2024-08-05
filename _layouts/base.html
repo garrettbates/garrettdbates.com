@@ -7,6 +7,12 @@
 
     {%- include header.html -%}
 
+    <style>
+      main.page-content {
+        border-bottom: 1px solid #e8e8e8;
+        margin-bottom: 10px;
+      }
+    </style>
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
@@ -15,6 +21,7 @@
 
     {%- include footer.html -%}
 
+    {%- include appendix.html -%}
   </body>
 
 </html>

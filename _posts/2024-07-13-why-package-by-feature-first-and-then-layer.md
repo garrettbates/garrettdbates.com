@@ -4,6 +4,73 @@ title: Why package by feature first and then by layer?
 date: 2024-07-19 13:10
 read_time: 3 min read
 categories: blog software-architecture
+image:
+  path: /assets/why-package-by-feature-first/feature-slice.png
+  height: 100
+  width: 100
+moreFromAuthor:
+  -
+    postSlug: why-use-onion-layering
+  - 
+    postSlug: why-prefer-unit-testing-through-layer-entrypoints
+  -
+    postSlug: why-disallow-package-within-the-class-name
+discussionPages:
+  - https://www.reddit.com/r/programming/comments/1e7dqzm/why_package_by_feature_first_and_then_by_layer/
+  - https://www.linkedin.com/posts/garrettdbates_why-package-by-feature-first-and-then-by-activity-7220185968144760832-epw6?utm_source=share&utm_medium=member_desktop
+  - https://news.ycombinator.com/item?id=41013148
+  - https://x.com/garrettdbates/status/1814421999558766963
+backgroundArticles:
+  -
+    link: https://gregorriegler.com/2020/08/08/levels-of-modularity.html
+    image: https://gregorriegler.com/assets/modularity/modularity_level1_layered.svg
+    title: Levels of Modularity
+    date: 2020-08-08
+  -
+    link: https://www.youtube.com/watch?v=cVVMbuKmNes
+    image: https://i.ytimg.com/vi/cVVMbuKmNes/maxresdefault.jpg
+    title: Restructuring to a Vertical Slice Architecture
+    date: 2021-07-28
+  -
+    link: https://www.jimmybogard.com/vertical-slice-architecture/
+    image: https://jimmybogardsblog.blob.core.windows.net/jimmybogardsblog/3/2018/Picture0030.png
+    title: Vertical Slice Architecture
+    date: 2018-04-19
+lucidchart:
+  link: https://lucid.app/folder/invitations/accept/inv_a4d9ca23-8ddb-4d76-97da-bc18ba4a7f21
+  image: /assets/why-package-by-feature-first/lucidchart-folder.png
+  title: Lucidchart folder
+nounProjectIcons:
+  - 
+    link: https://thenounproject.com/icon/arrow-2146615/
+    name: Arrow
+  - 
+    link: https://thenounproject.com/icon/explosion-563988/
+    name: Explosion
+  - 
+    link: https://thenounproject.com/icon/halo-4031793/
+    name: Halo
+  - 
+    link: https://thenounproject.com/icon/file-354396/
+    name: File
+  -
+    link: https://thenounproject.com/icon/brain-475578/
+    name: Brain
+  -
+    link: https://thenounproject.com/icon/yes-5537946/
+    name: Check
+  -
+    link: https://thenounproject.com/icon/smily-face-688850/
+    name: Smiley Face
+  -
+    link: https://thenounproject.com/icon/sad-1515667/
+    name: Sad
+  -
+    link: https://thenounproject.com/icon/excited-3500628/
+    name: Excited
+  -
+    link: https://thenounproject.com/icon/bracket-3883565/
+    name: Bracket
 ---
 
 <div style="display:flex;justify-content:center">
@@ -31,32 +98,4 @@ Code bases with multiple developers will often run into issues where changes end
 ### 3. Reduces barrier to share code
 ![Reduces barrier to share code](/assets/why-package-by-feature-first/reduce-code-share-barrier.png)
 
-Occasionally we develop code that has incredible utility across multiple microservices. Surgically extracting useful pieces typically requires a deep understanding of the code base and is often painful. Packaging by feature first promises to reduce the barrier to sharing code across microservices by simplifying the process down to copying a single directory. 
-
-### Appendix
-
-#### Discussion Threads
-* [Hacker News](https://news.ycombinator.com/item?id=41013148)
-* [Reddit](https://www.reddit.com/r/programming/comments/1e7dqzm/why_package_by_feature_first_and_then_by_layer/)
-* [LinkedIn](https://www.linkedin.com/posts/garrettdbates_why-package-by-feature-first-and-then-by-activity-7220185968144760832-epw6?utm_source=share&utm_medium=member_desktop)
-* [Twitter](https://x.com/garrettdbates/status/1814421999558766963)
-
-#### Related Background Articles
-* [https://gregorriegler.com/2020/08/08/levels-of-modularity.html](https://gregorriegler.com/2020/08/08/levels-of-modularity.html)
-* [https://www.youtube.com/watch?v=cVVMbuKmNes](https://www.youtube.com/watch?v=cVVMbuKmNes)
-* [https://www.jimmybogard.com/vertical-slice-architecture/](https://www.jimmybogard.com/vertical-slice-architecture/)
-* [https://garrettdbates.com/blog/software-architecture/why-use-onion-layering](https://garrettdbates.com/blog/software-architecture/why-use-onion-layering)
-  
-#### Lucidchart Folder
-* [https://lucid.app/folder/invitations/accept/inv_a4d9ca23-8ddb-4d76-97da-bc18ba4a7f21](https://lucid.app/folder/invitations/accept/inv_a4d9ca23-8ddb-4d76-97da-bc18ba4a7f21)
-
-#### Noun Project Assets
-* [Arrow](https://thenounproject.com/icon/arrow-2146615/)
-* [Explosion](https://thenounproject.com/icon/explosion-563988/)
-* [File](https://thenounproject.com/icon/file-354396/)
-* [Check](https://thenounproject.com/icon/yes-5537946/)
-* [Smiley Face](https://thenounproject.com/icon/smily-face-688850/)
-* [Sad](https://thenounproject.com/icon/sad-1515667/)
-* [Excited](https://thenounproject.com/icon/excited-3500628/)
-* [Bracket](https://thenounproject.com/icon/bracket-3883565/)
-* [Brain](https://thenounproject.com/icon/brain-475578/)
+Occasionally we develop code that has incredible utility across multiple microservices. Surgically extracting useful pieces typically requires a deep understanding of the code base and is often painful. Packaging by feature first promises to reduce the barrier to sharing code across microservices by simplifying the process down to copying a single directory.

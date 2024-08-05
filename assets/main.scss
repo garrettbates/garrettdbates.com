@@ -1,0 +1,65 @@
+---
+---
+@import "{{ site.theme }}";
+
+.appendix-wrapper-text {
+  text-align: center;
+}
+
+.appendix-wrapper {
+    @include relative-font-size(0.9375);
+    margin-left: -$spacing-unit / 2;
+    @extend %clearfix;
+    padding-left: $spacing-unit / 2;
+    padding-right: $spacing-unit / 2;
+  }
+  
+  .appendix-wrapper-col {
+    margin-bottom: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+    margin-top: 15px;
+  }
+  
+  .appendix-wrapper-col-1 {
+    clear: both;
+    float: left;
+    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+    width:         calc(40% - (#{$spacing-unit} / 2));
+  }
+  
+  .appendix-wrapper-col-2 {
+    float: right;
+    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+    width:         calc(40% - (#{$spacing-unit} / 2));
+  }
+  
+  
+  @include media-query($on-laptop) {
+    .appendix-wrapper-col-1,
+    .appendix-wrapper-col-2 {
+      width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+      width:         calc(50% - (#{$spacing-unit} / 2));
+    }
+  
+  }
+  
+  @include media-query($on-palm) {
+    .appendix-wrapper-col {
+      width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+      width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+  }
+
+.appendix-wrapper .appendix-wrapper-col .appendix-wrapper-img-container img {
+    height: 163px;
+    display:block;
+    margin:auto;
+}
+.appendix-wrapper-title {
+    font-size:16px;
+    font-weight: 800;
+    color:black;
+}
+.appendix-wrapper-title:hover {
+    color:#1756a9;
+}

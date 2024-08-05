@@ -1,0 +1,27 @@
+{%- if page.backgroundArticles -%}
+<div class="appendix-wrapper" style="padding-top: 30px">
+    <h2 id="related-background-articles">Related background articles</h2>
+    {%- for backgroundArticle in page.backgroundArticles -%}
+        {% assign colNum = forloop.index0 | modulo: 2 | plus: 1 %}
+        <a target="_blank" rel="noopener noreferrer" href="{{backgroundArticle.link}}">
+        <div class="appendix-wrapper-col appendix-wrapper-col-{{colNum}}">
+                <div>
+                    <div class="appendix-wrapper-img-container">
+                        <img src="{{backgroundArticle.image}}">
+                    </div>
+                    <div class="appendix-wrapper-text">
+                        <h2 class="appendix-wrapper-title">{{backgroundArticle.title}}</h2>
+                        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+                        <span class="published-on" title="Last updated" style="color:#828282">
+                            <time class="dt-published" datetime="{{ backgroundArticle.date | date_to_xmlschema }}" itemprop="datePublished">
+                              {{ backgroundArticle.date | date: date_format }}
+                            </time>
+                          </span>
+                    </div>
+                </div>
+        </div>
+    </a>
+    {%- endfor -%}
+</div>
+{%- endif -%}

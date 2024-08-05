@@ -1,0 +1,31 @@
+{%- if page.moreFromAuthor -%}
+<div class="appendix-wrapper">
+    <h2 style="margin-bottom: 0px">More from Garrett</h2>
+    {%- for moreItem in page.moreFromAuthor -%}
+        {% assign colNum = forloop.index0 | modulo: 2 | plus: 1 %}
+        <!-- {% assign moreItemPost = site.posts | where:"slug", moreItem.postSlug | first %} -->
+        <!--  -->
+        {% assign moreItemPost = site.posts | find: "slug", page.moreFromAuthor[forloop.index0].postSlug  %}
+        <a href="{{moreItemPost.url}}">
+            <div class="appendix-wrapper-col appendix-wrapper-col-{{colNum}}" role="link">
+                <div class="appendix-wrapper-img-container">
+                    <image src="{{moreItemPost.image.path}}" />
+                </div>
+                <div class="appendix-wrapper-text" style="text-align: left;">
+                    <h2 class="appendix-wrapper-title">{{moreItemPost.title}}</h2>
+                    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+                    <span class="published-on" title="Last updated" style="color:#828282">
+                        <time class="dt-published" datetime="{{ moreItemPost.date | date_to_xmlschema }}" itemprop="datePublished">
+                          {{ moreItemPost.date | date: date_format }}
+                        </time>
+                      </span>
+                </div>
+            </div>
+        </a>
+        <div>
+            
+        </div>
+    {%- endfor -%}
+</div>
+{%- endif -%}

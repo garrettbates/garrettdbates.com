@@ -1,0 +1,24 @@
+{%- if page.discussionPages -%}
+<div class="appendix-wrapper" style="padding-top: 30px">
+    <h2>Discuss this post</h2>
+    {%- for discussionPage in page.discussionPages -%}
+        {% assign colNum = forloop.index0 | modulo: 2 | plus: 1 %}
+
+        <a target="_blank" rel="noopener noreferrer" href="{{discussionPage}}">
+            <div class="appendix-wrapper-col appendix-wrapper-col-{{colNum}}">
+                <div class="appendix-wrapper-img-container">
+                    {%- if discussionPage contains 'reddit' -%}
+                        <img src="/assets/appendix/reddit-logo.png" style="height:82px">
+                    {%- elsif discussionPage contains 'linkedin' -%}
+                        <img src="/assets/appendix/linkedin-logo.png" style="height:82px">
+                    {%- elsif discussionPage contains 'ycombinator' -%}
+                        <img src="/assets/appendix/hacker-news.png" style="height:82px">
+                        {%- elsif discussionPage contains 'x.com' -%}
+                        <img src="/assets/appendix/twitter-logo.png" style="height:82px">                                      
+                    {%- endif -%}
+                </div>
+            </div>
+        </a>
+    {%- endfor -%}
+</div>
+{%- endif -%}

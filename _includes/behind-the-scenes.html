@@ -1,0 +1,45 @@
+{%- if page.lucidchart | page.nounProjectIcons -%}
+<div class="appendix-wrapper" style="padding-top: 30px">
+    <h2>Behind the scenes</h2>
+    <div class="appendix-wrapper-col appendix-wrapper-col-1">
+        <a target="_blank" rel="noopener noreferrer" href="{{page.lucidchart.link}}">
+            <div>
+                <div class="appendix-wrapper-img-container">
+                    <img src="{{page.lucidchart.image}}">
+                </div>
+                <div class="appendix-wrapper-text">
+                    <h2 class="appendix-wrapper-title">{{page.lucidchart.title}}</h2>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="appendix-wrapper-col appendix-wrapper-col-2" style="">
+        <style>
+            #noun-project-icons:hover {
+                cursor: pointer;
+                text-decoration: underline;
+            }
+        </style>
+        <div id="noun-project-icons">
+            <div class="appendix-wrapper-img-container">
+                <img src="/assets/appendix/noun-project-logo.png">
+            </div>
+            <div class="appendix-wrapper-text">
+                <h2 class="appendix-wrapper-title">Noun Project icons</h2>
+            </div>
+        </div>
+        <script>
+            // With the above scripts loaded, you can call `tippy()` with a CSS
+            // selector and a `content` prop:
+            tippy('#noun-project-icons', {
+                content: `{% include noun-project-icons-tooltip.html %}`,
+                placement: 'bottom',
+                allowHTML: true,
+                hideOnClick: 'toggle',
+                trigger: 'click',
+                interactive: true
+            });
+        </script>
+    </div>
+</div>
+{%- endif -%}

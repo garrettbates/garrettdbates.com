@@ -10,9 +10,77 @@ image:
   path: /assets/why-use-onion-layering/onion.png
   height: 100
   width: 100
+moreFromAuthor:
+  -
+    postSlug: why-prefer-unit-testing-through-layer-entrypoints
+  - 
+    postSlug: why-package-by-feature-first-and-then-layer
+  -
+    postSlug: why-disallow-package-within-the-class-name
+discussionPages:
+  - https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/
+  - https://www.linkedin.com/posts/garrettdbates_why-use-onion-layering-activity-7215731052445589504-6hAJ?utm_source=share&utm_medium=member_desktop
+  - https://news.ycombinator.com/item?id=40898715
+backgroundArticles:
+  - 
+    link: https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+    image: /assets/related-articles/070-explicit-architecture-svg.png
+    title: DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together
+    date: 2017-11-16
+  -
+    link: https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/
+    image: /assets/related-articles/palermo-onion.png
+    title: "The Onion Architecture : part 1"
+    date: 2008-07-01
+  -
+    link: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+    image: /assets/related-articles/CleanArchitecture.jpg
+    title: The Clean Architecture
+    date: 2012-08-13
+  -
+    link: https://www.youtube.com/watch?v=_Js-GEqB-8I
+    image: https://i.ytimg.com/vi/_Js-GEqB-8I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFYgXShlMA8=&rs=AOn4CLDL869SYpTxeyTVzcSt_NAYoXm4Rw
+    title: Sławek Sobótka - Ports and Adapters architecture
+    date: 2013-04-10
+  -
+    link: https://alistair.cockburn.us/hexagonal-architecture/
+    image: https://alistair.cockburn.us/wp-content/uploads/2017/03/logo285x146-half.png
+    title: Hexagonal architecture
+    date: 2017-03-01
+  -
+    link: https://stackoverflow.com/questions/21554977/should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-21569720
+    image: https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded
+    title: Should services always return DTOs?
+    date: 2014-02-05
+  -
+    link: https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+    image: https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.49:0.49/1*NfFzI7Z-E3ypn8ahESbDzw.png
+    title: Ready for changes with Hexagonal Architecture
+    date: 2020-03-10
+lucidchart:
+  link: https://lucid.app/folder/invitations/accept/inv_62b31f1e-a79e-491c-a203-0727d4034c27
+  image: /assets/why-use-onion-layering/lucidchart-folder.png
+  title: Lucidchart folder
+nounProjectIcons:
+  - 
+    link: https://thenounproject.com/icon/arrow-2146615/
+    name: Arrow
+  - 
+    link: https://thenounproject.com/icon/explosion-563988/
+    name: Explosion
+  - 
+    link: https://thenounproject.com/icon/halo-4031793/
+    name: Halo
+  - 
+    link: https://thenounproject.com/icon/file-354396/
+    name: File
+  -
+    link: https://thenounproject.com/icon/brain-475578/
+    name: Brain
+
 ---
 
-> You know you got it right if you cry more each time you look at another layer. Thats why it’s called Onion Architecture. - [Top Reddit Comment](https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/lc1xvqv/)
+> You know you got it right if you cry more each time you look at another layer. Thats why it’s called Onion Architecture. - [Top Reddit Comment](https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/lc1xvqv/){:target="_blank"}
 
 <div style="display:flex;justify-content:center">
     <img src="/assets/why-use-onion-layering/onion.png" alt="Onion" style="max-height:558px">
@@ -69,31 +137,3 @@ The raw code to wire up this dependency is completely irrelevant to our existing
 Onion layering isolates the distracting details of our new library into the .config.\* package and in doing so also increases the readability of the rest of our code base.
 
 ![Example clarity - configuration isolation](/assets/why-use-onion-layering/configuration-example.png)
-
-### Appendix
-
-#### Discussion Threads
-* [Hacker News](https://news.ycombinator.com/item?id=40898715)
-* [Reddit](https://www.reddit.com/r/programming/comments/1dxipgu/why_use_onion_layering/)
-* [LinkedIn](https://www.linkedin.com/posts/garrettdbates_why-use-onion-layering-activity-7215731052445589504-6hAJ?utm_source=share&utm_medium=member_desktop)
-
-#### Related Background Articles
-* [https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
-* [https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
-* [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-* [https://www.youtube.com/watch?v=_Js-GEqB-8I](https://www.youtube.com/watch?v=_Js-GEqB-8I)
-* [https://alistair.cockburn.us/hexagonal-architecture/](https://alistair.cockburn.us/hexagonal-architecture/)
-* [https://stackoverflow.com/questions/21554977/
-should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-21569720](https://stackoverflow.com/questions/21554977/
-should-services-always-return-dtos-or-can-they-also-return-domain-models#answer-21569720)
-* [https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
-
-#### Lucidchart Folder
-* [https://lucid.app/folder/invitations/accept/inv_62b31f1e-a79e-491c-a203-0727d4034c27](https://lucid.app/folder/invitations/accept/inv_62b31f1e-a79e-491c-a203-0727d4034c27)
-
-#### Noun Project Icons
-* [Arrow](https://thenounproject.com/icon/arrow-2146615/)
-* [Explosion](https://thenounproject.com/icon/explosion-563988/)
-* [Halo](https://thenounproject.com/icon/halo-4031793/)
-* [File](https://thenounproject.com/icon/file-354396/)
-* [Brain](https://thenounproject.com/icon/brain-475578/)

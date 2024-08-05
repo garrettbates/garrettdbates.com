@@ -1,0 +1,15 @@
+{%- if page.moreFromAuthor | page.discussionPages | page.backgroundArticles | page.rawAssets -%}
+<style>
+    .page-content.appendix {
+        border-top: 1px solid #e8e8e8;
+    }
+</style>
+<div class="page-content appendix">
+    <div class="wrapper">
+        {%- include more-from-author.html -%}
+        {%- include discussion-pages.html -%}
+        {%- include background-articles.html -%}
+        {%- include behind-the-scenes.html -%}
+    </div>
+</div>
+{%- endif -%}

@@ -4,6 +4,59 @@ title: Why prefer unit testing through layer entrypoints?
 date: 2024-07-20 08:50 -0700
 read_time: 3 min read
 categories: blog software-architecture
+image:
+  path: /assets/why-prefer-unit-testing-through-a-layer-entrypoint/most-popular.png
+  height: 100
+  width: 100
+moreFromAuthor:
+  -
+    postSlug: why-use-onion-layering
+  - 
+    postSlug: why-disallow-package-within-the-class-name
+  -
+    postSlug: why-package-by-feature-first-and-then-layer
+discussionPages:
+  - https://news.ycombinator.com/item?id=41018406
+  - https://www.reddit.com/r/programming/comments/1e81vil/why_prefer_unit_testing_through_layer_entrypoints
+  - https://www.linkedin.com/posts/garrettdbates_why-prefer-unit-testing-through-layer-entrypoints-activity-7220486583773224960-9xLl?utm_source=share&utm_medium=member_desktop
+  - https://x.com/garrettdbates/status/1814721450227671427
+backgroundArticles:
+  -
+    link: https://martinfowler.com/bliki/UnitTest.html
+    image: https://martinfowler.com/bliki/images/unitTest/sketch.png
+    title: Unit Test
+    date: 2014-05-04
+  -
+    link: https://dev.to/dylanwatsonsoftware/socialise-your-unit-tests-5da0
+    image: https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvm9twrbnsbxtiu0luxck.png
+    title: "Sociable Tests: Integration tests without the pain!"
+    date: 2022-07-31
+lucidchart:
+  link: https://lucid.app/folder/invitations/accept/inv_bffe0f2e-8ba2-4e55-9f6c-c072e86e836b
+  image: /assets/why-prefer-unit-testing-through-a-layer-entrypoint/lucidchart-folder.png
+  title: Lucidchart folder
+nounProjectIcons:
+  - 
+    link: https://thenounproject.com/icon/arrow-2146615/
+    name: Arrow
+  - 
+    link: https://thenounproject.com/icon/explosion-563988/
+    name: Explosion
+  -
+    link: https://thenounproject.com/icon/brain-475578/
+    name: Brain
+  -
+    link: https://thenounproject.com/icon/yes-5537946/
+    name: Check
+  -
+    link: https://thenounproject.com/icon/sad-1515667/
+    name: Sad
+  -
+    link: https://thenounproject.com/icon/bracket-3883565/
+    name: Bracket
+  -
+    link: https://thenounproject.com/icon/badge-1114431/
+    name: Badge
 ---
 
 ## Status Quo
@@ -58,29 +111,3 @@ The proposal to prefer unit testing through a layer entry point does not come wi
     </tr>
   </tbody>
 </table>
-
-
-### Appendix
-
-#### Related Background Articles
-* [https://martinfowler.com/bliki/UnitTest.html](https://martinfowler.com/bliki/UnitTest.html)
-* [https://dev.to/dylanwatsonsoftware/socialise-your-unit-tests-5da0](https://dev.to/dylanwatsonsoftware/socialise-your-unit-tests-5da0)
-* [https://garrettdbates.com/blog/software-architecture/why-use-onion-layering](https://garrettdbates.com/blog/software-architecture/why-use-onion-layering)
-
-#### Discussion Threads
-* [Hacker News](https://news.ycombinator.com/item?id=41018406)
-* [Reddit](https://www.reddit.com/r/programming/comments/1e81vil/why_prefer_unit_testing_through_layer_entrypoints/)
-* [LinkedIn](https://www.linkedin.com/posts/garrettdbates_why-prefer-unit-testing-through-layer-entrypoints-activity-7220486583773224960-9xLl?utm_source=share&utm_medium=member_desktop)
-* [Twitter](https://x.com/garrettdbates/status/1814721450227671427)
-
-#### Lucidchart Folder
-* [https://lucid.app/folder/invitations/accept/inv_bffe0f2e-8ba2-4e55-9f6c-c072e86e836b](https://lucid.app/folder/invitations/accept/inv_bffe0f2e-8ba2-4e55-9f6c-c072e86e836b)
-
-#### Noun Project Assets
-* [Arrow](https://thenounproject.com/icon/arrow-2146615/)
-* [Explosion](https://thenounproject.com/icon/explosion-563988/)
-* [Check](https://thenounproject.com/icon/yes-5537946/)
-* [Sad](https://thenounproject.com/icon/sad-1515667/)
-* [Bracket](https://thenounproject.com/icon/bracket-3883565/)
-* [Brain](https://thenounproject.com/icon/brain-475578/)
-* [Badge](https://thenounproject.com/icon/badge-1114431/)

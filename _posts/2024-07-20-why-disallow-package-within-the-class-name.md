@@ -4,6 +4,48 @@ title: Why disallow package within the class name?
 date: 2024-07-20 04:30 -0700
 read_time: 1 min read
 categories: blog software-architecture
+image:
+  path: /assets/why-disallow-package-within-the-class-name/package-information-overload.png
+moreFromAuthor:
+  -
+    postSlug: why-use-onion-layering
+  - 
+    postSlug: why-prefer-unit-testing-through-layer-entrypoints
+  -
+    postSlug: why-package-by-feature-first-and-then-layer
+discussionPages:
+  - https://www.reddit.com/r/programming/comments/1e7u735/why_disallow_package_within_the_class_name/
+  - https://www.linkedin.com/posts/garrettdbates_why-disallow-package-within-the-class-name-activity-7220401579915399168-oSAK?utm_source=share&utm_medium=member_desktop
+  - https://news.ycombinator.com/item?id=41015924
+backgroundArticles:
+  -
+    link: https://blog.codinghorror.com/new-programming-jargon/#21
+    image: https://blog.codinghorror.com/content/images/2014/Jun/brainy-smurf.png
+    title: Coding Horror - Smurf Naming Convention
+    date: 2012-07-20
+lucidchart:
+  link: https://lucid.app/folder/invitations/accept/inv_534f6a27-5bef-4a30-97e1-c29dd79d1f2c
+  image: /assets/why-disallow-package-within-the-class-name/lucidchart-folder.png
+  title: Lucidchart folder
+nounProjectIcons:
+  - 
+    link: https://thenounproject.com/icon/arrow-2146615/
+    name: Arrow
+  - 
+    link: https://thenounproject.com/icon/explosion-563988/
+    name: Explosion
+  -
+    link: https://thenounproject.com/icon/brain-475578/
+    name: Brain
+  -
+    link: https://thenounproject.com/icon/yes-5537946/
+    name: Check
+  -
+    link: https://thenounproject.com/icon/sad-1515667/
+    name: Sad
+  -
+    link: https://thenounproject.com/icon/bracket-3883565/
+    name: Bracket
 ---
 
 ## Motivation
@@ -16,25 +58,3 @@ As developers are choosing names for their classes the overall length plays a hu
 
 ### Encourages more descriptive/relevant words
 ![Encourages descriptive/relavant words](/assets/why-disallow-package-within-the-class-name/package-relevant-words.png)
-
-### Appendix
-
-#### Related Background Articles
-* [https://blog.codinghorror.com/new-programming-jargon/#21](https://blog.codinghorror.com/new-programming-jargon/#21)
-* [https://devcards.io/smurf-naming-convention](https://devcards.io/smurf-naming-convention)
-
-#### Discussion Threads
-* [Reddit](https://www.reddit.com/r/programming/comments/1e7u735/why_disallow_package_within_the_class_name/)
-* [Hacker News](https://news.ycombinator.com/item?id=41015924)
-* [LinkedIn](https://www.linkedin.com/posts/garrettdbates_why-disallow-package-within-the-class-name-activity-7220401579915399168-oSAK?utm_source=share&utm_medium=member_desktop)
-
-#### Lucidchart Folder
-* [https://lucid.app/folder/invitations/accept/inv_534f6a27-5bef-4a30-97e1-c29dd79d1f2c](https://lucid.app/folder/invitations/accept/inv_534f6a27-5bef-4a30-97e1-c29dd79d1f2c)
-
-#### Noun Project Assets
-* [Arrow](https://thenounproject.com/icon/arrow-2146615/)
-* [Explosion](https://thenounproject.com/icon/explosion-563988/)
-* [Check](https://thenounproject.com/icon/yes-5537946/)
-* [Sad](https://thenounproject.com/icon/sad-1515667/)
-* [Bracket](https://thenounproject.com/icon/bracket-3883565/)
-* [Brain](https://thenounproject.com/icon/brain-475578/)
