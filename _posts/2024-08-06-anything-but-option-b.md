@@ -7,6 +7,9 @@ lucidchart:
     link: https://lucid.app/folder/invitations/accept/inv_398dfb07-07a4-4f29-baea-4762686ff606
     title: Lucidchart Folder
     image: /assets/anything-but-option-b/lucidchart-folder.png
+discussionPages:
+  - https://www.linkedin.com/posts/garrettdbates_anything-but-option-b-activity-7226889984790736897-OD7a?utm_source=share&utm_medium=member_desktop
+  - https://x.com/garrettdbates/status/1821124569912258652
 moreFromAuthor:
   -
     postSlug: why-use-onion-layering
