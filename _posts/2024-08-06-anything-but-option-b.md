@@ -14,11 +14,11 @@ lucidchart:
     <img src="/assets/anything-but-option-b/dug-in-and-never-change.png" alt="Dug in" style="max-height:558px">
 </div>
 
-Over the last 4 years I've spent over 2000+ hours facilitating technical brainstorm discussions with hundreds of different people. Gnarly and complex problems are frequent and quick decision making is paramount. Differing opinions are a given - but occasionally a team member falls into the "Anything but option B!" trap. I define it as a dysfunctional hyperfocus on the cons associated with a given option.
+Over the last 4 years, I've spent over 2000+ hours facilitating technical brainstorming discussions with hundreds of people. Gnarly and complex problems are frequent and quick decision making is paramount. Differing opinions are a given - but occasionally a team member falls into the "Anything but option B!" trap. I define it as a dysfunctional hyperfocus on the cons associated with a given option.
 
 ![Con Overemphasis](/assets/anything-but-option-b/con-overemphasis.svg){: height="300px"}
 
-I’ve certainly fallen into this trap. Sometimes option B just looks like garbage from your perspective. However that is the value in collaborating with others - they can help pull your blinders off. Easier said than done - especially when you are "dug in". In this post I'll review a four simple steps to help you move the discussion forward in a way that leaves the group in a position to make the best decision and keep your relationships intact.
+I’ve certainly fallen into this trap. Sometimes option B looks like garbage from your perspective. However, that is the value of collaborating - they can help pull your blinders off. Easier said than done - especially when you are "dug in". In this post, I'll review four simple steps to help you move the discussion forward in a way that leaves the group in a position to make the best decision and keep your relationships intact.
 
 ## Step 1: Focus on making them believe you understand their criticisms
 After someone lays down some damage and gives their input tearing apart option B it is important to make sure they believe they are understood. This is the only way to avoid them looping back through the cons repetitively.
@@ -28,10 +28,10 @@ After someone lays down some damage and gives their input tearing apart option B
 
 A common knee-jerk reaction is to immediately move the conversation forward focusing on other pros/cons. I would consider this a bad move. It often results in people talking past each other and the conversation goes in circles.
 
-### Correct path: Speak,write,summarize their input
+### Correct path: Speak, write, summarize their input
 ![Not Listening](/assets/anything-but-option-b/speak-write-summarize.svg){: height="300px"}
 
-I've found the best path forward is to literally write down what they've said, verbally speak it back to them, and give my own spin on the summary of their feedback. Not only does this make them feel heard, but you'll be shocked at just how often you actually didn't understand what they've said!
+I've found the best path forward is to write down what they've said, verbally speak it back to them, and give my spin on the summary of their feedback. Not only does this make them feel heard, but you'll be shocked at just how often you didn't understand what they said!
 
 ## Step 2: Switch focus to their preferred option
 
@@ -46,13 +46,13 @@ The next easiest target is going to be pulling out what they believe are the pro
 At this point the person with the "Anything but B" mentality should be subdued enough that you can gather feedback from the remaining team members without them feeling the need to interject or interrupt. This phase can be uncomfortable but it is important to push through and make sure each member of the team (including yourself) are also heard and understood.
 
 ## Step 4: Gather recommedations
-It is now time to go around the group and allow everyone the opportunity to make an informed recommendation. Do not assume anyones preference since it may have changed over the course of the discussion. I'm always amazed at how often my own recommendation changes once all of the facts are in. You truly can go farther together. If you can make it to this step where each members input is recorded (and they feel heard) then 9 times out of ten you will get a unanimous recommendation.
+It is now time to go around the group and allow everyone the opportunity to make an informed recommendation. Do not assume anyone's preference since it may have changed throughout the discussion. I'm always amazed at how often my recommendation changes once all of the facts are in. You truly can go farther together. If you can make it to this step where each member's input is recorded (and they feel heard) then 9 times out of ten you will get a unanimous recommendation.
 
 ## Step 5: Make the decision
-When there are conflicting recommendations you'll want to designate someone as the final approver. As a rule of thumb I try to make it the person who has the most to lose if the decision is suboptimal - often this is an accountable leader. Let the approver state their intended choice before finalizing it and allow members of the team a last opportunity to fillibuster. Sometimes their true feedback doesn't come out until the threat of the final decision.
+When there are conflicting recommendations you'll want to designate someone as the final approver. As a rule of thumb, I try to make it the person who has the most to lose if the decision is suboptimal - often this is an accountable leader. Let the approver state their intended choice before finalizing it and allow members of the team a last opportunity to filibuster. Sometimes their true feedback doesn't come out until the threat of the final decision.
 
 ## Summary
-Treat team members who fall into the "Anything but option B!" trap with kindness, listen deeply/openly, and confirm your understanding of their input often. Push for that same level respect to be given to the rest of the team members including yourself. Make the decision when there are no words left to be said.
+Treat team members who fall into the "Anything but option B!" trap with kindness, listen deeply/openly, and confirm your understanding of their input often. Push for that same level of respect to be given to the rest of the team members including yourself. Make the decision when there are no words left to be said.
 
 
 
