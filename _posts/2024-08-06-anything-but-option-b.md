@@ -39,13 +39,13 @@ The next easiest target is going to be pulling out what they believe are the pro
 
 ![Preferred option](/assets/anything-but-option-b/preferred-option.svg){: height="300px"}
 
-## Step 3: Fill in remaining pros/cons
+## Step 3: Fill in the remaining pros/cons
 
 ![Fill in remaining pros/cons](/assets/anything-but-option-b/fill-in-remaining.svg){: height="300px"}
 
-At this point the person with the "Anything but B" mentality should be subdued enough that you can gather feedback from the remaining team members without them feeling the need to interject or interrupt. This phase can be uncomfortable but it is important to push through and make sure each member of the team (including yourself) are also heard and understood.
+At this point, the person with the "Anything but B" mentality should be subdued enough that you can gather feedback from the remaining team members without them feeling the need to interject or interrupt. This phase can be uncomfortable but it is important to push through and make sure each member of the team (including yourself) is also heard and understood.
 
-## Step 4: Gather recommedations
+## Step 4: Gather recommendations
 It is now time to go around the group and allow everyone the opportunity to make an informed recommendation. Do not assume anyone's preference since it may have changed throughout the discussion. I'm always amazed at how often my recommendation changes once all of the facts are in. You truly can go farther together. If you can make it to this step where each member's input is recorded (and they feel heard) then 9 times out of ten you will get a unanimous recommendation.
 
 ## Step 5: Make the decision
