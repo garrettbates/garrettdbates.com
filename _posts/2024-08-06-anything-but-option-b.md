@@ -6,6 +6,32 @@ lucidchart:
     link: https://lucid.app/folder/invitations/accept/inv_398dfb07-07a4-4f29-baea-4762686ff606
     title: Lucidchart Folder
     image: /assets/anything-but-option-b/lucidchart-folder.png
+moreFromAuthor:
+  -
+    postSlug: why-use-onion-layering
+  - 
+    postSlug: why-prefer-unit-testing-through-layer-entrypoints
+  -
+    postSlug: why-disallow-package-within-the-class-name
+nounProjectIcons:
+  - 
+    link: https://thenounproject.com/icon/arrow-3078251/
+    name: Arrow
+  - 
+    link: https://thenounproject.com/icon/explosion-563988/
+    name: Explosion
+  -
+    link: https://thenounproject.com/icon/yes-5537946/
+    name: Check
+  -
+    link: https://thenounproject.com/icon/emoticon-1304074/
+    name: Neutral Face
+  -
+    link: https://thenounproject.com/icon/curious-4504444/
+    name: Curious Face
+  -
+    link: https://thenounproject.com/icon/happy-5502387/
+    name: Happy Face
 ---
 
 > I won't change my mind on anything, regardless of the facts that are set out before me. I'm dug in. And I'll never change. - [Mac from It's Always Sunny In Philadelphia](https://www.youtube.com/watch?v=GiJXALBX3KM&ab_channel=FXNetworks)
