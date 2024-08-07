@@ -44,7 +44,7 @@ Over the last 4 years, I've spent over 2000+ hours facilitating technical brains
 
 ![Con Overemphasis](/assets/anything-but-option-b/con-overemphasis.svg){: height="300px"}
 
-I’ve certainly fallen into this trap. Sometimes option B looks like garbage from your perspective. However, that is the value of collaborating - they can help pull your blinders off. Easier said than done - especially when you are "dug in". In this post, I'll review four simple steps to help you move the discussion forward in a way that leaves the group in a position to make the best decision and keep your relationships intact.
+I’ve certainly fallen into this trap. Sometimes option B looks like garbage from your perspective. However, that is the value of collaborating - they can help pull your blinders off. Easier said than done - especially when you are "dug in". In this post, I'll review five simple steps to help you move the discussion forward in a way that leaves the group in a position to make the best decision and keep your relationships intact.
 
 ## Step 1: Focus on making them believe you understand their criticisms
 After someone lays down some damage and gives their input tearing apart option B it is important to make sure they believe they are understood. This is the only way to avoid them looping back through the cons repetitively.
@@ -61,9 +61,9 @@ I've found the best path forward is to write down what they've said, verbally sp
 
 ## Step 2: Switch focus to their preferred option
 
-The next easiest target is going to be pulling out what they believe are the pros associated with their preferred option A. By hearing them out and playing it back to them you will not only have fully utilized their passion, but they will also be more committed to the final decision knowing that their inputs were understood.
-
 ![Preferred option](/assets/anything-but-option-b/preferred-option.svg){: height="300px"}
+
+The next easiest target is going to be pulling out what they believe are the pros associated with their preferred option A. By hearing them out and playing it back to them you will not only have fully utilized their passion, but they will also be more committed to the final decision knowing that their inputs were understood.
 
 ## Step 3: Fill in the remaining pros/cons
 
