@@ -16,7 +16,6 @@ moreFromAuthor:
   -
     postSlug: why-disallow-package-within-the-class-name
 discussionPages:
-  - https://www.reddit.com/r/programming/comments/1e7dqzm/why_package_by_feature_first_and_then_by_layer/
   - https://www.linkedin.com/posts/garrettdbates_why-package-by-feature-first-and-then-by-activity-7220185968144760832-epw6?utm_source=share&utm_medium=member_desktop
   - https://news.ycombinator.com/item?id=41013148
   - https://x.com/garrettdbates/status/1814421999558766963
