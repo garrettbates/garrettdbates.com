@@ -3,6 +3,7 @@ layout: post
 title: Anything But Option B!
 date: 2024-08-06 21:01 -0700
 read_time: 4 min read
+categories: blog technical-leadership
 lucidchart:
     link: https://lucid.app/folder/invitations/accept/inv_398dfb07-07a4-4f29-baea-4762686ff606
     title: Lucidchart Folder
