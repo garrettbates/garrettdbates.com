@@ -21,6 +21,9 @@ nounProjectIcons:
   -
     link: https://thenounproject.com/icon/4938954/
     name: Shine
+discussionPages:
+  - https://www.linkedin.com/posts/garrettdbates_driving-complex-decisions-activity-7375580967551483904-i9Zv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAo2xlYBB2urKKk_Olkw3vm2qvgF3Fr8jQU
+  - https://x.com/garrettdbates/status/1969819227503903191
 ---
 
 <div style="display:flex;justify-content:center;padding:20px 0">
