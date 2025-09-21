@@ -3,6 +3,9 @@ layout: post
 title: Anything But Option B!
 date: 2024-08-06 21:01 -0700
 read_time: 4 min read
+image:
+  path: /assets/anything-but-option-b/dug-in-and-never-change.png
+  height: 100
 lucidchart:
     link: https://lucid.app/folder/invitations/accept/inv_398dfb07-07a4-4f29-baea-4762686ff606
     title: Lucidchart Folder
