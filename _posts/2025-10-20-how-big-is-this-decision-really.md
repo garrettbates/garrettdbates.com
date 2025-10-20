@@ -3,6 +3,7 @@ layout: post
 title: "How Big Is This Decision, Really?"
 date: 2025-10-20
 image: /assets/how-big-is-this-decision-really/how-big-is-this-decision-really.png
+read_time: 8 min read
 moreFromAuthor:
   -
     postSlug: driving-complex-decisions
