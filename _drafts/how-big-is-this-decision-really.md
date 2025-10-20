@@ -13,11 +13,24 @@ image: /assets/how-big-is-this-decision-really/how-big-is-this-decision-really.p
     </a>
 </div>
 
-Some decisions require just a little bit more diligence than others. However, it can be tough to know just how much effort you should put in. Shoot from the hip? Or go through the ringer pulling in everyone and their mother to ensure alignment?
+Some decisions require just a little bit more diligence than others. However, it can be tough to know just *how much* effort you should put in. Shoot from the hip? Or go through the ringer pulling in everyone and their mother to ensure alignment?
 
-In this post I’ll provide a cheat sheet on how to roughly categorize your upcoming decision. We'll walk through a few types of decisions, some tips on how to navigate them, and approximate timeline. There is no one-size-fits-all but hopefully this helps provide you with a reference point.
+In this post, we’ll walk through a simple framework to help you right-size your effort before diving in. You’ll find four levels of decision scope — from small, single-team calls to large, cross-org investments — each with guidance on typical timelines, who to involve, and how to document outcomes.
 
-We'll be making use of the decision milestones outlined in a prior article [Driving Complex Decisions](/driving-complex-decisions#an-idealized-timeline) with modified timeframes per decision type.
+If you haven’t read [Driving Complex Decisions](/driving-complex-decisions)
+, it lays out the foundational building blocks and mental models that this post builds upon. Here, we’ll focus on concrete examples and how to tailor the process by decision size.
+
+# 🧩 How to Use This Guide
+Before diving in, here’s a quick map of the four “levels” of decision scope we’ll cover — from small, self-contained changes to major cross-org investments. Use this as a reference to gauge how much diligence and coordination your upcoming decision likely needs.
+
+| **Decision Level** | **Scope**                                  | **Approx. Timeline** | **Primary Focus**                                         |
+| ------------------ | ------------------------------------------ | -------------------- | --------------------------------------------------------- |
+| **Level 1**        | Change within a single team                | 1–3 days             | Context gathering & team alignment                        |
+| **Level 2**        | Adjustment between already connected teams | 4–6 days             | Shared understanding & API/contract clarity               |
+| **Level 3**        | First-time connection between two teams    | ~2 weeks             | Defining roles, responsibilities & integration approach   |
+| **Level 4**        | Introducing a new team or capability       | 3–4 weeks            | Cross-functional design & exec-level investment alignment |
+
+Each level builds on the one before it — expanding the scope, the number of voices involved, and the degree of rigor required. Think of them less as rigid rules and more as calibration points. With that context in mind, let’s start at the smallest scale: a significant change within a single team’s boundary.
 
 # Level 1: Significant change within a single team's boundary
 
