@@ -5,6 +5,7 @@ date: 2025-10-18 00:42 -0700
 image: /assets/how-big-is-this-decision-really/how-big-is-this-decision-really.png
 ---
 
+🎬
 > You have no idea the physical toll three vasectomies have on a person! - [Michael Scott](https://www.youtube.com/watch?v=2hshkdneE8o){:target="_blank"}
 
 <div style="display:flex;justify-content:center;padding:20px 0">
@@ -20,7 +21,7 @@ In this post, we’ll walk through a simple framework to help you right-size you
 If you haven’t read [Driving Complex Decisions](/driving-complex-decisions)
 , it lays out the foundational building blocks and mental models that this post builds upon. Here, we’ll focus on concrete examples and how to tailor the process by decision size.
 
-# 🧩 How to Use This Guide
+# 🧭 How to Use This Guide
 Before diving in, here’s a quick map of the four “levels” of decision scope we’ll cover — from small, self-contained changes to major cross-org investments. Use this as a reference to gauge how much diligence and coordination your upcoming decision likely needs.
 
 | **Decision Level** | **Scope**                                  | **Approx. Timeline** | **Primary Focus**                                         |
@@ -133,5 +134,5 @@ Each level builds on the one before it — expanding the scope, the number of vo
 * Multiple drivers and **parallel provocations**
 * Must escalate to **executive level leadership** who has investment authority
 
-# Closing thoughts
+# 💡 Closing thoughts
 Great decision-making isn’t about moving fast or slow — it’s about moving at the right speed for the scope of impact. Use these levels as a shared language so teams can calibrate together, spend effort where it matters most, and make alignment feel natural instead of forced.
