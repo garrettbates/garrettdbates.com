@@ -112,7 +112,7 @@ Each level builds on the one before it — expanding the scope, the number of vo
 ## Level 4: Introducing a new team
 
 <div style="display:flex;justify-content:center;padding:20px 0">
-    <img src="/assets/how-big-is-this-decision-really/introducing-a-new-team.png" alt="Introducing a new team">
+    <img src="/assets/how-big-is-this-decision-really/introducing-a-new-team.png" alt="Introducing a new team" style="height:300px;">
 </div>
 
 ### Defining characteristics
