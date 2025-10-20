@@ -48,7 +48,7 @@ Each level builds on the one before it — expanding the scope, the number of vo
 </div>
 
 ## Key Takeaways
-* Oftentimes decision can be made w/ **a single team meeting** and some prior diligence in gathering context.
+* Oftentimes decision can be made with **a single team meeting** and some prior diligence in gathering context.
   * Example pre-meeting preparation to accelerate:
     * Triggering reason why this decision needs to be made now
     * Historical context of what will change
@@ -104,7 +104,7 @@ Each level builds on the one before it — expanding the scope, the number of vo
   * System integration diagram
   * Sequence diagram
     * Summarize key takeaways of each sequence
-* Expect **multiple iterations** w/ each stakeholder
+* Expect **multiple iterations** with each stakeholder
 * Approver should be beyond just each team lead - ensure you escalate your proposal up to the **single unifying leader across both teams**
 * Decision should be recorded in centralized location for the **entire organization** to discover and review
    
