@@ -71,7 +71,7 @@ We'll be making use of the decision milestones outlined in a prior article [Driv
 # Level 3: First time connection between two teams
 
 <div style="display:flex;justify-content:center;padding:20px 0">
-    <img src="/assets/how-big-is-this-decision-really/first-time-connection.svg" alt="Modifying contract between already connected teams">
+    <img src="/assets/how-big-is-this-decision-really/first-time-connection.svg" alt="First time connection between two teams">
 </div>
 
 ## Defining characteristics
@@ -83,7 +83,7 @@ We'll be making use of the decision milestones outlined in a prior article [Driv
 ## Approximate Timeline (~2 weeks)
 
 <div style="display:flex;justify-content:center;padding:20px 0">
-    <img src="/assets/how-big-is-this-decision-really/first-time-connection-between-two-teams-timeline.png" alt="Modifying contract between already connected teams">
+    <img src="/assets/how-big-is-this-decision-really/first-time-connection-between-two-teams-timeline.png" alt="First time connection between two teams timeline">
 </div>
 
 ## Key Takeaways
@@ -109,7 +109,7 @@ We'll be making use of the decision milestones outlined in a prior article [Driv
 
 ## Approximate Timeline (~3-4 weeks)
 <div style="display:flex;justify-content:center;padding:20px 0">
-    <img src="/assets/how-big-is-this-decision-really/introducing-a-new-team-timeline.png" alt="Modifying contract between already connected teams">
+    <img src="/assets/how-big-is-this-decision-really/introducing-a-new-team-timeline.png" alt="Introducing a new team timeline">
 </div>
 
 ## Key Takeaways
