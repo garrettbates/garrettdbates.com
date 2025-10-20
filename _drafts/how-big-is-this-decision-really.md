@@ -16,10 +16,9 @@ image: /assets/how-big-is-this-decision-really/how-big-is-this-decision-really.p
 
 Some decisions require just a little bit more diligence than others. However, it can be tough to know just *how much effort* to put in. Shoot from the hip? Or go through the wringer pulling in everyone and their mother to ensure alignment?
 
-In this post, we’ll walk through a simple framework to help you right-size your effort before diving in. You’ll find four levels of decision scope — from small, single-team calls to large, cross-org investments — each with guidance on typical timelines, who to involve, and how to document outcomes.
+In this post, we’ll walk through a few reference points to help you right-size your effort before diving in. You’ll find four levels of decision scope — from small, single-team calls to large, cross-org investments — each with guidance on typical timelines, who to involve, and how to document outcomes.
 
-If you haven’t read [Driving Complex Decisions](/driving-complex-decisions)
-, it lays out the foundational building blocks and mental models that this post builds upon. Here, we’ll focus on concrete examples and how to tailor the process by decision size.
+If you haven’t read [Driving Complex Decisions](/driving-complex-decisions), it lays out the foundational building blocks and mental models that this post builds upon. Here, we’ll focus on concrete examples and how to tailor the process by decision size.
 
 ## 🧭 How to use this guide
 Before diving in, here’s a quick map of the four “levels” of decision scope we’ll cover — from small, self-contained changes to major cross-org investments. Use this as a reference to gauge how much diligence and coordination your upcoming decision likely needs.
@@ -36,7 +35,7 @@ Each level builds on the one before it — expanding the scope, the number of vo
 ## Level 1: Significant change within a single team's boundary
 
 <div style="display:flex;justify-content:center;padding:20px 0">
-    <img src="/assets/how-big-is-this-decision-really/within-single-teams-boundary.svg" alt="Significant change within a single team's boundary">
+    <img src="/assets/how-big-is-this-decision-really/within-single-teams-boundary.svg" alt="Significant change within a single team's boundary" style="height:300px;margin: -36px;">
 </div>
 
 ### Defining characteristics
@@ -54,7 +53,7 @@ Each level builds on the one before it — expanding the scope, the number of vo
     * Triggering reason why this decision needs to be made now
     * Historical context of what will change
     * Options considered and recommendation
-* Account for the possibility of needing to circle back at least once with new research after the initial shareout.
+* Account for the possibility of needing to **circle back at least once** with new research after the initial shareout.
 * Decision should be recorded for future team reference (e.g. as an [ADR](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions))
 
 ## Level 2: Modifying a contract between already connected teams
@@ -65,7 +64,7 @@ Each level builds on the one before it — expanding the scope, the number of vo
 
 ### Defining characteristics
 * The teams already have an established relationship and integration
-* There exists dependencies between the teams for complete rollout of the change
+* Rollout requires cross-team coordination
 
 ### Approximate timeline (~4-6 days)
 
