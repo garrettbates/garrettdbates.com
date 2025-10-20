@@ -3,6 +3,8 @@ layout: post
 title: Driving Complex Decisions
 date: 2025-09-21 00:00 -0800
 read_time: 10 min read
+image: 
+    path: /assets/driving-complex-decisions/more-is-lost-by-indecision-than-wrong-decision.png
 lucidchart:
     link: https://lucid.app/folder/invitations/accept?invitationId=inv_86fad235-3733-4655-9613-412a096e2ec2
     title: Lucidchart Folder

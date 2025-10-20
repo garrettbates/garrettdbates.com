@@ -1,8 +1,15 @@
 ---
 layout: post
 title: "How Big Is This Decision, Really?"
-date: 2025-10-18 00:42 -0700
+date: 2025-10-20
 image: /assets/how-big-is-this-decision-really/how-big-is-this-decision-really.png
+moreFromAuthor:
+  -
+    postSlug: driving-complex-decisions
+  -
+    postSlug: anything-but-option-b
+  - 
+    postSlug: why-use-onion-layering
 ---
 
 🎬
@@ -16,12 +23,12 @@ image: /assets/how-big-is-this-decision-really/how-big-is-this-decision-really.p
 
 Some decisions require just a little bit more diligence than others. However, it can be tough to know just *how much effort* to put in. Shoot from the hip? Or go through the wringer pulling in everyone and their mother to ensure alignment?
 
-In this post, we’ll walk through a few reference points to help you right-size your effort before diving in. You’ll find four levels of decision scope — from small, single-team calls to large, cross-org investments — each with guidance on typical timelines, who to involve, and how to document outcomes.
+In this post, we'll walk through a few reference points to help you right-size your effort before diving in. You'll find four levels of decision scope — from small, single-team calls to large, cross-org investments — each with guidance on typical timelines, who to involve, and how to document outcomes.
 
-If you haven’t read [Driving Complex Decisions](/driving-complex-decisions), it lays out the foundational building blocks and mental models that this post builds upon. Here, we’ll focus on concrete examples and how to tailor the process by decision size.
+If you haven't read [Driving Complex Decisions](/driving-complex-decisions), it lays out the foundational building blocks and mental models that this post builds upon. Here, we'll focus on concrete examples and how to tailor the process by decision size.
 
 ## 🧭 How to use this guide
-Before diving in, here’s a quick map of the four “levels” of decision scope we’ll cover — from small, self-contained changes to major cross-org investments. Use this as a reference to gauge how much diligence and coordination your upcoming decision likely needs.
+Before diving in, here's a quick map of the four "levels" of decision scope we'll cover — from small, self-contained changes to major cross-org investments. Use this as a reference to gauge how much diligence and coordination your upcoming decision likely needs.
 
 | **Decision Level** | **Scope**                                  | **Approx. Timeline** | **Primary Focus**                                         |
 | ------------------ | ------------------------------------------ | -------------------- | --------------------------------------------------------- |
@@ -30,7 +37,7 @@ Before diving in, here’s a quick map of the four “levels” of decision scop
 | **Level 3**        | First-time connection between two teams    | ~2 weeks             | Defining roles, responsibilities & integration approach   |
 | **Level 4**        | Introducing a new team or capability       | 3–4 weeks            | Cross-functional design & exec-level investment alignment |
 
-Each level builds on the one before it — expanding the scope, the number of voices involved, and the degree of rigor required. Think of them less as rigid rules and more as calibration points. With that context in mind, let’s start at the smallest scale: a significant change within a single team’s boundary.
+Each level builds on the one before it — expanding the scope, the number of voices involved, and the degree of rigor required. Think of them less as rigid rules and more as calibration points. With that context in mind, let's start at the smallest scale: a significant change within a single team's boundary.
 
 ## Level 1: Significant change within a single team's boundary
 
@@ -134,4 +141,5 @@ Each level builds on the one before it — expanding the scope, the number of vo
 * Must escalate to **executive level leadership** who has investment authority
 
 ## 💡 Closing thoughts
-Great decision-making isn’t about moving fast or slow — it’s about moving at the right speed for the scope of impact. Use these levels as a shared language so teams can calibrate together, spend effort where it matters most, and make alignment feel natural instead of forced.
+Great decision-making isn't about moving fast or slow — it's about moving at the right speed for the scope of impact. Use these levels as a shared language so teams can calibrate together, spend effort where it matters most, and make alignment feel natural instead of forced.
+
